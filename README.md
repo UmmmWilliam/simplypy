@@ -18,7 +18,7 @@ This repository contains a variety of scripts that aim to simplify common tasks 
 To use any of the scripts in this repository, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/simplypy.git
+git clone https://github.com/UmmmWilliam/simplypy.git
 ```
 
 Then, navigate to the directory containing the script you want to use and execute it using Python:
